@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+  background-color: #f1f1f1 !important;
+}
+
+.section {
+  background-color: #fff;
+  height: 500px;
+  width: 500px
+    /* background-color:  !important;
+  background-color: #fff;
+  color: rgb(216, 83, 83);*/
+}

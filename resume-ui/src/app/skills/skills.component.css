@@ -1,0 +1,13 @@
+.skills-section {
+  background-color: #fff;
+  height: 45%;
+  width: 10%;
+  position: absolute;
+  right: 58%;
+  top: 2%;
+  padding: 20px;
+}
+
+ul.skill-list{
+  padding:10%
+}

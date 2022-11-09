@@ -1,0 +1,27 @@
+.profile-section {
+  background-color: #fff;
+  height: 30%;
+  width: 30%;
+  position: absolute;
+  right: 25%;
+  padding: 20px;
+  top: 2%;
+
+  /*
+  text-align: right;
+  float: right;
+  background-color:  !important;
+  background-color: #fff;
+  color: rgb(216, 83, 83);*/
+}
+
+.theri-image {
+  height: 187px;
+  width: 170px;
+  position: absolute;
+  right: 20px
+}
+
+.name {
+  font-size: 40px;
+}
