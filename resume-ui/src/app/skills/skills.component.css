@@ -1,13 +1,25 @@
 .skills-section {
   background-color: #fff;
-  height: 45%;
-  width: 10%;
+  height: 50%;
+  width: 13%;
   position: absolute;
-  right: 58%;
+  left: 27%;
   top: 2%;
-  padding: 20px;
+}
+
+.heading-position {
+  position: absolute;
+  left: 8%;
+  top: 4%;
+  margin-top: 5px;
 }
 
 ul.skill-list{
-  padding:10%
+  margin-right:10%;
+  margin-top:31%;
+}
+
+ul li{
+  padding-bottom: 7%;
+  font-size: 110%;
 }

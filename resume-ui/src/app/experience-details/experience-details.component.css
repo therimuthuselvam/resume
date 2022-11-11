@@ -1,9 +1,29 @@
 .experience-section {
   background-color: #fff;
-  height: 30%;
-  width: 30%;
+  height: 22%;
+  width: 32%;
   position: absolute;
-  right: 25%;
-  bottom: 28%;
-  padding: 20px;
+  right: 27%;
+  top: 38%;
+}
+
+.heading-position {
+  position: absolute;
+  left: 3%;
+  top: 4%;
+  margin-top: 5px;
+  /* padding: 50px;
+    font-weight: bold;
+  text-align: center;
+  background: #1abc9c;*/
+}
+
+.content-position {
+  position: absolute;
+  left: 3%;
+  top: 18%;
+}
+
+p {
+  margin-bottom: 5%;
 }

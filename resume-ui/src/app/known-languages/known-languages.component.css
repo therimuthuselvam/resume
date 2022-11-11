@@ -1,9 +1,25 @@
-.skills-section {
+.language-section {
   background-color: #fff;
-  height: 45%;
-  width: 10%;
+  height: 16%;
+  width: 13%;
   position: absolute;
-  right: 58%;
-  top: 53%;
-  padding: 20px;
+  left: 27%;
+  top: 54%;
+}
+
+.heading-position {
+  position: absolute;
+  left: 8%;
+  top: 4%;
+  margin-top: 5px;
+}
+
+ul.language-list{
+  margin-right:10%;
+  margin-top:25%;
+}
+
+ul li{
+  padding-bottom: 7%;
+  font-size: 110%;
 }
