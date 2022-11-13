@@ -7,9 +7,12 @@ body {
 }
 
 .common-section {
+  border-bottom: 0.15vw solid;
+  border-radius: 1.5vw;
+  left: 41vw;
+  /*
   border-bottom: 2px solid;
   border-radius: 30px;
-  /*
   background-color:  !important;
   background-color: #fff;
   color: rgb(216, 83, 83);
@@ -21,11 +24,19 @@ body {
 }
 
 .heading {
-  font-size: 150%;
+  /* font-size: 150%; */
+  font-size: 1.25vw;
   font-family: "Acme";
 }
 
 .content {
   line-height: 150%;
   font-size: 110%;
+  line-height: 1.245vw;
+  font-size:0.913vw;
 }
+
+/* <meta name="viewport" content="width=device-width, initial-scale=1.0">
+* {
+  box-sizing: border-box;
+}*/

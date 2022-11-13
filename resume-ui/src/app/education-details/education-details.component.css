@@ -1,17 +1,22 @@
 .education-section {
   background-color: #fff;
-  height: 48%;
+  /* height: 48%;
   width: 32%;
-  position: absolute;
-  right: 27%;
+  left: 40.5%;
   top: 62%;
+   */
+  height: 24vw;
+  width: 32vw;
+  position: absolute;
+  top: 31vw;
 }
 
 .heading-position {
   position: absolute;
   left: 3%;
   top: 4%;
-  margin-top: 5px;
+  /* margin-top: 5px; */
+  margin-top: 0.5vw;
 }
 
 .content-position {
